@@ -1,5 +1,3 @@
-Here is a comprehensive, production-ready `README.md` file tailored to your Kaggle project and problem statement.
-
 ---
 
 # Food-101 Image Classification using Custom Residual CNN
@@ -110,7 +108,7 @@ model.eval()
 
 ---
 
-## 🛠️ Required Dependencies
+##  Required Dependencies
 
 Ensure the following packages are configured inside your working notebook kernel:
 
